@@ -1,4 +1,5 @@
-# ✨ Live tweet sentiment analysis [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# ✨ Live tweet sentiment analysis [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 A live Twitter sentiment analyzer using Tweepy, HuggingFace Transformers, and Streamlit that helps to find the live sentiment of tweeples(people who tweet are called as tweeples) on some celebrity or any event like, say, COVID at this moment?
 
 ## Installation:
